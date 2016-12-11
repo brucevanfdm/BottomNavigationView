@@ -6,3 +6,4 @@
 更新：
 通过反射去掉了默认的切换效果，完美支持ViewPager联动。
 
+[简书文章](http://www.jianshu.com/p/0ba25cc65889#)
